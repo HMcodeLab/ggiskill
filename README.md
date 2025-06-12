@@ -4,7 +4,7 @@
 
 Golden Globe is a lightweight, easily configurable, and customizable **Next.js** and **Tailwind CSS** landing page template. It’s built to be adaptable, performant, and perfect for any product launch, portfolio, or promotional site.
 
-Try out the demo here: [https://Golden Globe-omega.vercel.app](https://Golden Globe-omega.vercel.app).
+Try out the demo here: [https://Golden Globe-omega.vercel.app](https://Golden Globe-omega.vercel.app).V
 
 Please check out the documentation below to get started.
 
